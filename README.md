@@ -1,6 +1,6 @@
 # Central-Pattern-Generators
 ## Three different CPG models from papers  
-I reimplemented central generator patterns methods according to three papers.  
+I reimplemented central pattern generators methods according to three papers.  
 Got the same results as the paper.  
 **hopf_cpg.py**: [1]  
 **cpg_fish_AmphiBot.py**: [2]  
